@@ -52,7 +52,7 @@ O design e a experiência do usuário foram planejados previamente: <br>
 git clone https://github.com/isalvesb/GlobalSolutions
 ```
 
-2. Abra o arquivo 'index.html' no seu navegador preferido.
+2. Abra o arquivo ‘index.html‘ no seu navegador preferido.
 3. Explore as telas, interações e conteúdos criados para a solução.
 
 ---
